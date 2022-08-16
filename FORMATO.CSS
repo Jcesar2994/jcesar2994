@@ -89,7 +89,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("ana\ 3.png");
+    ,url("ana.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center center;
@@ -265,7 +265,7 @@ footer .container{
     }
 
     #Sobre-mi .img-container{
-        background-image: url("chelle.jpeg");
+        background-image: url("chelle.jpg");
         background-size: cover;
         background-position: center center;
         height: 780px;
