@@ -1,0 +1,14 @@
+body{
+    font-family: 'Alkatra', cursive;
+    color: var(--secondary2);
+    font-size: 17px;
+}     
+
+header,
+footer{
+    color: var(--secondary3);
+}
+
+.nombre1{
+    font-size: 2rem;
+}
