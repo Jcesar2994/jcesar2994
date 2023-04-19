@@ -1,0 +1,17 @@
+#hero{
+    padding: 5rem 0 3rem;
+    position: relative;
+    /* top: 200px; */
+    overflow: hidden;
+    /* background: linear-gradient(var(--primary),var(--primary2)); */
+}
+
+.main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.2;
+}

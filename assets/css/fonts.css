@@ -9,6 +9,10 @@ footer{
     color: var(--secondary3);
 }
 
-.nombre1{
-    font-size: 2rem;
+header .nombre1{
+    font-size: 4rem;
+}
+
+header a{
+    color: var(--secondary3);
 }
