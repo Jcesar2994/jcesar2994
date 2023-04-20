@@ -12,7 +12,3 @@ footer{
 header .nombre1{
     font-size: 4rem;
 }
-
-header a{
-    color: var(--secondary3);
-}

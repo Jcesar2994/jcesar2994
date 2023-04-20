@@ -1,8 +1,10 @@
 #hero{
     padding: 5rem 0 3rem;
     position: relative;
-    /* top: 200px; */
+    
     overflow: hidden;
+    height: 100vh;
+    /* background-image: url(/assets/img/ana3.png); */
     /* background: linear-gradient(var(--primary),var(--primary2)); */
 }
 
@@ -13,5 +15,21 @@
     transform: translate(-50%, -50%);
     min-width: 100%;
     min-height: 100%;
-    opacity: 0.2;
+    /* opacity: 0.2; */
+}
+
+img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#hero h1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    /* transform: translate(-50%, -50%); */
+    z-index: 1;
+    font-size: 3.5rem;
+    color: var(--secondary3);
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
 }

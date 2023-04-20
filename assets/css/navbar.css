@@ -5,7 +5,7 @@ header{
 
 
 header .nombre1{
-    padding: 25px 30px;
+    padding: 10px 30px;
     text-decoration: none;
 }
 
@@ -19,6 +19,7 @@ header .container{
 header a{
     text-decoration: none;
     padding: 5px 12px;
+    color: var(--secondary3);
 }
 
 header a:hover{
