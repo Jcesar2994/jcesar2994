@@ -7,6 +7,7 @@ header{
 header .nombre1{
     padding: 10px 30px;
     text-decoration: none;
+    font-size: 4rem;
 }
 
 
@@ -30,4 +31,5 @@ header nav{
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-size: 1.5em;
 }

@@ -1,0 +1,42 @@
+#segundo{
+    background-color: var(--primary3);
+    text-align: center;
+ 
+}
+
+#segundo .container2{
+    
+    padding: 100px 0px;
+}
+
+#segundo h2{
+    color: var(--secondary3);
+    font-size: 3.5rem;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+    
+}
+
+#segundo .img-container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    overflow: hidden;
+    
+}
+
+.carta img{
+   
+    border-radius: 1rem;
+    min-width: 100%;
+    min-height: 100%;
+   
+    width: 400px;
+    height: 700px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carta{
+    margin: 20px;
+}

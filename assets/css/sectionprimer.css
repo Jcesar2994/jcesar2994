@@ -1,0 +1,41 @@
+#primer{
+text-align: center;
+padding: 50px 12px;
+background-color: var(--primary3)
+}
+
+
+.primerTexto{
+    color: var(--secondary3);
+    font-size: 3.5rem;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+section p{
+    padding-bottom: 30px;
+    font-size: 1.5em;
+}
+
+.video{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    box-shadow: 0 0 15px var(--secondary3);
+}
+
+.video iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+hr{
+    height: 0.3rem;
+    margin: 0;
+    max-width: 100%;
+    border: 0;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0),var(--secondary), rgba(0, 0, 0, 0));
+}
