@@ -1,0 +1,11 @@
+#final{
+    background-color: var(--primary2);
+}
+
+#final h2{
+    color: var(--secondary3);
+    font-size: 3.5rem;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+    /* margin: 15px; */
+    text-align: center;
+}
