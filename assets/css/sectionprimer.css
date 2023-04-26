@@ -1,5 +1,5 @@
 #primer{
-text-align: center;
+
 padding: 50px 12px;
 background-color: var(--primary3)
 }
@@ -12,13 +12,20 @@ background-color: var(--primary3)
 }
 
 section p{
-    padding-bottom: 30px;
+    
     font-size: 1.5em;
     text-align: justify;
 }
 
-#primer cite{
+.divtex1 .title3{
     text-align: center;
+    display: block;
+}
+
+#primer blockquote{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 30px;
 }
 
 
