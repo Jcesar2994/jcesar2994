@@ -9,6 +9,8 @@ background-color: var(--primary3)
     color: var(--secondary3);
     font-size: 3.5rem;
     text-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+    display: block;
+    text-align: center;
 }
 
 section p{
